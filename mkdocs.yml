@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+  font:
+    text: Ubuntu
+
+markdown_extensions:
+  - codehilite:
+      linennums: true
